@@ -1,0 +1,10 @@
+@import url("common/nav.css");
+html {
+  background: #0002;
+}
+html :hover {
+  background-color: #0002;
+}
+html:hover {
+  background-color: #0002;
+}
